@@ -1,4 +1,5 @@
 ## SegmentView 
+[![](https://jitpack.io/v/husseinhj/Android-SegmentView.svg)](https://jitpack.io/#husseinhj/Android-SegmentView)
 [![NuGet Badge](https://buildstats.info/nuget/Xamarin.SegmentView)](https://www.nuget.org/packages/Xamarin.SegmentView/)
 
 Simple Android Segment Control cloned from iOS 13
@@ -20,7 +21,7 @@ allprojects {
 ```
 dependencies {
     ....
-    implementation 'com.github.trinnguyen:Android-SegmentView:master-SNAPSHOT'
+    	        implementation 'com.github.husseinhj:Android-SegmentView:v1.1'
 }
 ```
 

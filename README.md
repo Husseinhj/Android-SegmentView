@@ -21,7 +21,7 @@ allprojects {
 ```
 dependencies {
     ....
-    	        implementation 'com.github.husseinhj:Android-SegmentView:v1.1'
+    implementation 'com.github.husseinhj:Android-SegmentView:v1.1.1'
 }
 ```
 
